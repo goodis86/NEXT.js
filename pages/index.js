@@ -20,3 +20,4 @@ export default indexPage;
 // the main idea behind next.js is file and folder structure that lets us navigate and avoid using routes at all,
 // it does it for us!!!!
 // here we have 2 pages with indes.js file in each and if we type /auth - it shows us the index.js inside our auth folder right away!
+// deleted second branch in github, checking on the results and functionality!!!!!!!!!!!!!
